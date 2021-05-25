@@ -595,7 +595,13 @@ a.button {
   }
 
   /* Swiper */
-  
+  .beneficio-content {
+    padding: 0;
+    padding-bottom: 2rem
+  }
+  .swiper-button-prev, .swiper-button-next {
+    display: none!important
+  }
   /* End Swiper */
 }
 
